@@ -1,0 +1,3 @@
+image_path,label,patient_id
+images/TB/example_001.jpg,TB,patient_001
+images/Cancer/example_002.jpg,Cancer,patient_002
